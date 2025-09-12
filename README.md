@@ -17,3 +17,9 @@ python normalize_text.py
 # Cleans raw outputs in output/ -> saves normalized files in output/normalized/
 ```
 
+## Clause Segmentation
+```bash
+python clause_splitter.py
+Takes normalized text in output/normalized/ and creates clause-level splits in output/clauses/.
+```
+
