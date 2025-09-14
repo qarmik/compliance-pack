@@ -1,0 +1,1081 @@
+[FRAUD] RBI/2011-12/75
+
+DBS.CO.FrMC.BC..No.2 /23.04.001/2011-12                 July 01, 2011
+
+The Chief Executive Officers of
+All Primary (Urban) Co-operative Banks
+
+Dear Sir,
+
+Frauds – Classification and Reporting
+
+Please refer to our letter DBS.CO. FrMC BC No. 2 /23.04.001/2009-10 dated July
+
+01, 2010  forwarding  therewith Master  Circular on  'Frauds –  Classification &
+
+Reporting'. It may be noted that the Master Circular consolidates and updates all the
+
+instructions issued during the year since the date of the last Master Circular dated
+
+July 01, 2010. The Master Circular also incorporates instructions contained in certain
+
+clarifications issued by RBI to banks during the course of the year. The Master
+
+Circular has been updated as on June 30, 2011 and has been placed on the web-
+
+site of the Reserve Bank of India (www.rbi.org.in).
+
+Yours faithfully,
+
+-sd-
+(A. Madasamy)
+Chief General Manager
+
+1                       CONTENTS
+
+---
+
+[MISC] 1.   INTRODUCTION                                             2
+
+---
+
+[FRAUD] 2.    CLASSIFICATION OF FRAUDS                                2
+
+---
+
+[FRAUD] 3.    REPORTING OF FRAUDS TO RESERVE BANK OF INDIA
+
+3.1 Frauds involving amounts of less than Rs. 1.00 lakh              4
+3.2 Frauds involving amounts of Rs. 1.00 lakh and above             4
+but less than Rs. 25.00 lakh
+3.3 Frauds involving amounts of Rs. 25.00 lakh and above            4
+3.4 Frauds committed by unscrupulous borrowers                   5
+3.5 Cases of attempted fraud                                   5
+
+---
+
+[FRAUD] 4.    QUARTERLY RETURNS
+
+4.1 Report on Frauds Outstanding                               6
+4.2 Progress Report on Frauds                                 6
+
+---
+
+[FRAUD|GOVERNANCE] 5.    REPORTS TO THE BOARD
+
+5.1 Reporting of Frauds                                       6
+5.2 Quarterly Review of Frauds                                 7
+5.3 Annual Review of Frauds                                   7
+
+---
+
+[FRAUD] 6.    GUIDELINES FOR REPORTING OF FRAUDS TO POLICE          8
+
+---
+
+[FRAUD] 7.   CLOSURE OF FRAUD CASES                                 9
+
+---
+
+[FRAUD] 8.    REPORTING CASES OF THEFT, BURGLARY, DACOITY           10
+AND BANK ROBBERIES
+
+Formats :
+
+FMR-1 Report on Actual or Suspected Frauds in Banks
+
+FMR-2 Quarterly Report on Frauds Outstanding
+
+FMR-3 Quarterly Progress Report on Frauds
+
+FMR-4 Report on Dacoities / Robberies / Thefts / Burglaries
+
+---
+
+[FRAUD|GOVERNANCE] 21.   INTRODUCTION
+
+1.1   Incidence of frauds, dacoities, robberies, etc., in banks is a matter
+of concern.  While the primary responsibility for preventing frauds
+lies with banks themselves, the Reserve Bank of India (RBI) has
+been advising banks from time to time about the major fraud prone
+areas and the safeguards necessary for prevention of frauds. RBI
+has also been circulating to banks, the details of frauds of an
+ingenious nature not reported earlier so that banks could introduce
+necessary safeguards by way  of  appropriate procedures and
+internal checks. To facilitate this ongoing process,  it is essential
+that banks report to the Reserve Bank full information about frauds
+and the follow-up action taken thereon. Banks may, therefore,
+adopt the reporting system for frauds as prescribed in the following
+paragraphs.
+1.2      It has been observed that frauds are, at times, detected in banks
+long after their perpetration. The fraud reports are also submitted to
+the RBI, many a time, with considerable delay and without the
+required information. On certain occasions, the RBI comes to know
+about frauds involving large amounts only through press reports.
+Banks  should,  therefore, ensure  that  the  reporting system  is
+suitably streamlined so that frauds are reported without any delay.
+Banks must fix staff accountability in respect of delays in reporting
+fraud cases to the RBI.
+1.3   Delay in reporting of frauds and the consequent delay in alerting
+other banks about the modus operandi and issue of caution advices
+against unscrupulous borrowers could result in similar frauds being
+perpetrated elsewhere. Banks may, therefore, strictly adhere to the
+timeframe fixed in this circular for reporting fraud cases to RBI
+failing which banks would be liable for penal action as prescribed
+under Section 47(A)  of the Banking Regulation Act, 1949 (As
+applicable to Co-operative Societies).
+1.4   Banks should specifically nominate a senior  official who  will be
+responsible for submitting all the returns referred to in this circular.
+
+---
+
+[FRAUD] 2.   CLASSIFICATION OF FRAUDS
+
+2.1    In order to have uniformity in reporting, frauds have been classified
+as under, based mainly on the provisions of the Indian Penal Code:
+a) Misappropriation and criminal breach of trust.
+b) Fraudulent   encashment   through   forged    instruments,
+manipulation of books of account or through fictitious accounts
+and conversion of property.
+
+3         c) Unauthorised credit facilities extended for reward or for illegal
+gratification.
+d) Negligence and cash shortages.
+e) Cheating and forgery.
+f)  Irregularities in foreign exchange transactions.
+g) Any other type of fraud not coming under the specific heads as
+above.
+2.2   Cases of 'negligence and cash shortages' and  'irregularities  in
+foreign exchange transactions' referred to in item (d) & (f) above
+are to be reported as fraud  if the intention to cheat/defraud  is
+suspected/ proved. However, the following cases where fraudulent
+intention is not suspected/proved at the time of detection will be
+treated as fraud and reported accordingly:
+(a) cases of cash shortages more than Rs.10,000.00 and
+(b) cases of cash shortages more than Rs.5,000.00 if detected by
+management/auditor/inspecting officer and not reported on the
+day of occurrence by the persons handling cash.
+2.3   To ensure uniformity and to avoid duplication, frauds involving
+forged instruments may be reported only by the paying banker and
+not by the collecting banker.
+However,  in the case  of  collection  of an instrument which  is
+genuine but the amount is collected fraudulently by a person who is
+not the true owner, the collecting bank, which is defrauded, will
+have to file fraud report with the RBI.
+In case of collection of instrument where the amount has been
+credited and withdrawn before realisation and subsequently the
+instrument is found to be fake/forged and returned by the paying
+bank, it is the collecting bank who has to file FMR-1 with the RBI as
+they are at loss by parting the amount before realisation of the
+instrument.
+
+2.4   Encashment of altered  / fake cheques involving two or more
+branches of same bank
+2.4.1   In case of collection of altered/fake cheque involving two or more
+branches of the same bank, the branch where the altered/fake
+cheque has been encashed, should report the fraud to Head Office
+of the bank. Thereafter, Head Office of the bank will file the fraud
+report with RBI.
+2.4.2   In the event of an altered/fake cheque having been paid/encashed
+involving two or more branches of a bank under Core Banking
+Solution (CBS), there could be a possibility of dispute/difference of
+opinion as to whether the branch where the drawer of the cheque
+maintains the account or the branch where the encashment has
+taken place should report the matter to the Head Office of the bank.
+
+4          In such cases also the branch which has released the payment
+against an altered / fake cheque should report the fraud to the Head
+Office. Thereafter, Head Office of the bank will file the fraud report
+with RBI.
+2.5 Cases of theft, burglary, dacoity and robbery should not be reported
+as fraud. Such cases may be reported separately as detailed  in
+paragraph 8.
+
+---
+
+[FRAUD] 3.    REPORTING OF FRAUDS TO RESERVE BANK OF INDIA
+
+3.1 Frauds involving amounts of less than Rs. 1.00 lakh
+The cases of individual frauds involving amounts of less than  Rs.1.00
+lakh are not to be reported individually to the RBI. Statistical data in
+respect of such frauds should, however, be submitted to RBI in a
+quarterly statement as detailed in Para 4.1.
+
+3.2 Frauds involving amounts of Rs. 1.00 lakh and above but less
+than Rs. 25.00 lakh
+The cases of individual frauds involving amounts of Rs.1.00 lakh and
+above but less than Rs.25.00 lakh should be reported to the Regional
+Office of Urban Banks Department of Reserve Bank of India, under
+whose jurisdiction the Head Office of the bank falls, in the format
+given in FMR-1, within three weeks from the date of detection.
+
+3.3  Frauds involving amounts of Rs. 25.00 lakh and above
+
+3.3.1 The cases of individual frauds involving amounts of Rs.25.00
+lakh and above should be reported to Frauds Monitoring Cell,
+Department of Banking Supervision, Reserve Bank of India,
+Central Office, World Trade Centre, Centre-1, Cuffe Parade,
+Mumbai 400005  in the format given  in FMR-1, within three
+weeks from the date of detection. A copy of FMR-1 should also
+be submitted to the Regional Office of Urban Banks Department
+of Reserve Bank of India under whose jurisdiction the Head
+Office of the bank falls.
+
+3.3.2  In addition to the requirement given at paragraph 3.3.1 above,
+banks may report the fraud by means of D.O. letter addressed
+to the Chief General Manager-in-Charge of the Department of
+Banking Supervision, Reserve Bank of India, Central Office,
+within a week of such fraud coming to the notice of the bank's
+Head Office. The letter may contain brief particulars of the fraud
+such as amount involved, nature of fraud, modus operandi in
+brief, name of the branch/office, names of parties involved  (if
+they are proprietorship/partnership concerns or private limited
+companies, the names of proprietors, partners and directors),
+names of officials involved and whether the complaint has been
+lodged with the Police. A copy of the D.O. letter should also be
+endorsed to the Regional Office of Urban Banks Department of
+
+5           Reserve Bank  of India under whose  jurisdiction the bank's
+branch, where the fraud has been perpetrated, is functioning.
+
+3.4   Frauds committed by unscrupulous borrowers
+3.4.1  It  is observed that a large number of frauds are committed by
+unscrupulous   borrowers   including   companies,   partnership
+firms/proprietary concerns and/or their directors/partners by various
+methods including the following:
+(i)   Fraudulent discount  of instruments or  kite  flying  in clearing
+effects.
+(ii)  Fraudulent removal of pledged stocks/disposing of hypothecated
+stocks without the bank’s knowledge/inflating the value of stocks
+in the stock statement and drawing excess bank finance.
+(iii)  Diversion of funds, lack of interest or criminal neglect on the part
+of borrowers, partners etc. in adhering to financial discipline and
+managerial  failure  with  malafide  intent  leading  to  the  unit
+becoming sick and  laxity  in effective supervision over    the
+operations  in  borrowal  accounts on  the  part  of  the bank
+functionaries rendering the advance  difficult  of recovery and
+resulting in financial loss to the bank.
+In respect of frauds in borrowal accounts additional information as
+prescribed under Part B of FMR – 1 should also be furnished.
+3.5 Cases of attempted fraud.
+Cases of attempted fraud, where the likely loss would have been Rs.
+25.00 lakhs or more had the fraud taken place, should be reported by the
+bank to the Fraud Monitoring Cell, Department of Banking Supervision,
+Reserve Bank of India, Central Office, Mumbai within two weeks of the
+bank coming to know that the attempt to defraud the bank failed or was
+foiled. The report should cover the following:
+
+---
+
+[FRAUD] •  The modus operandi of the attempted fraud.
+
+---
+
+[FRAUD] •  How the attempt did not materialise in the fraud or how the attempt
+failed/was foiled.
+
+---
+
+[MISC] •  The measures taken by the bank to strengthen the existing systems
+and controls.
+
+---
+
+[FRAUD|GOVERNANCE] •  New systems and controls put in place in the area where fraud was
+attempted.
+Reports on such attempted frauds should be placed before the Audit
+Committee of the Board.
+Such cases should not be included  in the other returns to be
+submitted to RBI.
+
+6 4.   QUARTERLY RETURNS
+
+4.1   Report on Frauds Outstanding (FMR-2)
+4.1.1  Banks should submit a copy each of the Quarterly Report on Frauds
+Outstanding in the format given in FMR – 2 to the Regional Office of
+Urban Banks Department of the Reserve Bank of India under whose
+jurisdiction the Head Office of the bank falls within 15 days of the end
+of the quarter to which it relates. Banks which may not be having any
+fraud outstanding as at the end of a quarter should submit a nil
+report.
+4.1.2   Part – A of the report covers details of frauds outstanding as at the
+end of the quarter. Parts B and C of the report give category-wise and
+perpetrator-wise  details  of  frauds  reported  during  the  quarter
+respectively. The total number and amount of fraud cases reported
+during the quarter as shown in Parts B and C should tally with the
+totals of columns 4 and 5 in Part – A of the report.
+4.1.3  Banks should furnish a certificate, as part of the above report, to the
+effect that  all individual fraud cases of Rs. 1.00 lakh and above
+reported to the RBI in FMR – 1 during the quarter have also been put
+up to the bank’s Board of Directors and have been incorporated in
+Part – A (columns 4 and 5) and Parts B and C of FMR – 2.
+
+4.2   Progress Report on Frauds (FMR-3)
+4.2.1  Banks should furnish case-wise quarterly progress reports on frauds
+involving Rs. 1.00 lakh and above in the format given in FMR–3 to the
+Regional Office of Urban Banks Department of Reserve Bank of India
+under whose jurisdiction the bank’s Head Office is situated,  within 15
+days of the end of the quarter to which it relates.
+4.2.2   In case of frauds where there are no developments during a quarter, a
+list of such cases with brief description including name of branch and
+date of reporting may be furnished in Part – B of FMR – 3.
+4.2.3   If there are no fraud cases involving Rs.1.00 lakh and above outstanding,
+banks may submit a nil report.
+
+---
+
+[FRAUD|GOVERNANCE] 5.   REPORTS TO THE BOARD
+
+5.1   Reporting of Frauds
+
+5.1.1 Banks should ensure that all frauds of Rs. 1.00 lakh and above are
+reported to their Boards promptly on their detection.
+
+5.1.2 Such reports should, among other things, take note of the failure on
+the part of the concerned branch officials and controlling authorities,
+
+7        and  consider  initiation  of  appropriate  action  against  the  officials
+responsible for the fraud.
+
+5.2    Quarterly Review of Frauds
+
+5.2.1   Information relating to frauds for the quarters ending March, June and
+September may be placed before the Audit Committee of the Board of
+Directors during the month following the quarter to which  it pertains,
+irrespective of whether or not these are required to be placed before the
+Board/Management Committee in terms of the Calendar of Reviews
+prescribed by the Reserve Bank of India.
+
+5.2.2  These should be accompanied by supplementary material analysing
+statistical  information and  details  of each  fraud so  that the  Audit
+Committee of the Board would have adequate material to contribute
+effectively in regard to the punitive or preventive aspects of frauds.
+
+5.2.3  A separate review for the quarter ending December is not required in
+view of the Annual Review for the year-ending December prescribed
+below.
+
+5.3    Annual Review of Frauds
+
+5.3.1  Banks should conduct an annual review of the frauds and place a note
+before the Board of Directors for information. The reviews for the year-
+ended December may be placed before the Board by the end of March
+of the following year.
+
+5.3.2  The main aspects which may be taken into account while making such a
+review may include the following:
+
+a) Whether the systems in the bank are adequate to detect frauds, once
+they have taken place, within the shortest possible time.
+
+b) Whether  frauds  are examined  from  staff  angle  and, wherever
+necessary, the staff side action is taken without undue delay.
+
+c) Whether deterrent punishment is meted out, wherever warranted, to
+the persons found responsible without undue delay.
+
+d) whether frauds have taken place because of laxity in following the
+systems and procedures or loopholes  in the system and,  if so,
+whether effective action has been taken to ensure that the systems
+and procedures are scrupulously followed by the staff concerned or
+the loopholes are plugged.
+
+e) Whether frauds are reported to the local Police for investigation.
+
+5.3.3  The annual reviews should  also, among  other  things,  include  the
+following details:
+a) Total number of frauds detected during the year and the amount
+involved as compared to the previous two years.
+
+8        b) Analysis of frauds according to different categories detailed in
+Paragraph 2.1 and also the different business areas indicated in
+the Quarterly Report on Frauds Outstanding (vide FMR – 2).
+c) Modus operandi of major frauds reported during the year along
+with their present position.
+d) Detailed analysis of frauds of Rs. 1.00 lakh and above.
+e) Estimated loss to the bank during the year on account of frauds,
+amount recovered and provisions made.
+f)  Number of cases (with amounts) where staff are involved and the
+action taken against staff.
+g) Time taken to detect frauds (number of cases detected within
+three months, six months, one year, more than one year of their
+taking place).
+h) Position with regard to frauds reported to the Police.
+i)  Number of frauds where final action has been taken by the bank
+and cases disposed off.
+j)  Preventive/punitive steps taken by the bank during the year to
+reduce/minimise the incidence of frauds. Whether systems and
+procedures have been examined to ensure that weaknesses are
+addressed.
+
+---
+
+[FRAUD] 6.  GUIDELINES FOR REPORTING OF FRAUDS TO POLICE
+
+6.1  Banks should follow the following guidelines for reporting of frauds such
+as  unauthorised  credit  facilities  extended  by  the bank  for  illegal
+gratification, negligence and cash shortages, cheating, forgery, etc. to the
+State Police authorities:
+(a)      In dealing with cases of fraud/embezzlement, banks should not
+merely be motivated by the necessity of recovering expeditiously
+the amount involved, but should also be motivated by public
+interest and the need for ensuring that the guilty persons do not
+go unpunished.
+(b)     Therefore,  as a  general  rule,  the  following  cases  should
+invariably be referred to the State Police:
+
+i.  Cases of fraud involving an amount of Rs. 1.00 lakh and above,
+committed by outsiders on their own and/or with the connivance of
+bank staff/officers.
+ii.  Cases of fraud committed by bank employees, when it
+involves banks' funds exceeding Rs. 10,000.00
+
+96.2    Filing of Police complaint in case of fraudulent encashment of
+DDs/TTs/Pay Orders/Cheques/Dividend Warrants, etc.
+
+6.2.1  In case of frauds involving forged instruments, the paying banker has
+to file the police complaint (FIR) and not the collecting banker.
+
+6.2.2 However, in case of collection of instrument which is genuine but the
+amount collected fraudulently by a person who is not the owner, the
+collecting bank which is defrauded has to file a police complaint (FIR).
+6.2.3  In case of collection of instruments where the amount has been credited
+before  realisation and subsequently the instrument  is found  to be
+fake/forged and returned by the paying bank,  it is the collecting bank
+who has to file a police complaint as they are at loss by paying the
+amount before realisation of the instrument.
+6.2.4  In cases of collection of altered/fake cheque involving two or more
+branches  of  the same bank,  the branch where  the  altered/fake
+instrument has been encashed, should file a Police complaint (FIR).
+
+6.2.5  In the event of an altered / fake cheque having been paid /encashed
+involving two or more branches of a bank under CBS, the branch
+which has released the payment against a fraudulent withdrawal,
+should file a Police complaint.
+
+---
+
+[FRAUD|GOVERNANCE] 7.   CLOSURE OF FRAUD CASES
+Banks will report to the concerned Regional Office of Urban Banks
+Department   of Reserve Bank of India under whose jurisdiction the
+Head Office of the bank falls, the details of the fraud cases closed
+along with reasons for the closure where no further action was called
+for. Fraud cases closed during the quarter are required to be reported
+in quarterly return FMR-2.
+Banks should report only such cases of frauds as closed where the
+actions as stipulated below are complete:
+a.    The fraud cases pending with Police/Courts are finally disposed.
+b.    The examination of staff accountability has been completed.
+c.    The amount of fraud has been recovered or written off.
+d.    Insurance claim, wherever applicable, has been settled.
+
+e.    The bank has reviewed the systems and procedures, identified
+the causative factors and plugged the lacunae and the fact of
+which has been certified by the Board.
+
+10    Banks should also pursue vigorously with the Police/Court for final disposal
+of the pending cases especially where the banks have completed staff side
+action.
+
+---
+
+[FRAUD] 8.  REPORTING CASES OF THEFT, BURGLARY, DACOITY AND  BANK
+ROBBERIES
+
+8.1   Banks should arrange  to  report by fax  / e-mail instances  of  thefts,
+burglaries dacoities and robberies to the following authorities immediately
+on their occurrence.
+(a)   The Chief General Manager – in – Charge, Reserve Bank of India,
+Urban Banks Department, Central Office, Garment House, Worli,
+Mumbai 400 018.
+(b)    Regional Office of Reserve Bank of India, Urban Banks Department
+of the state in which the theft/burglary/dacoity/robbery has taken
+place  to enable the Regional Office to take up the issues with the
+concerned  authorities  regarding  security  arrangements  in  the
+affected branch/es ( endorsement).
+The report should include details of modus operandi and other information
+as at columns 1 to 11 of FMR – 4.
+
+8.2   Banks should also submit to concerned Regional Office of the Reserve
+Bank of India, Urban Banks Department under whose jurisdiction the
+bank's Head Office is situated a quarterly consolidated statement in the
+format given in FMR – 4 covering all cases pertaining to the quarter. This
+may be submitted within 15 days of the end of the quarter to which  it
+relates.
+
+8.3   Banks which do not have any instances of theft, burglary, dacoity and/ or
+robbery to report during the quarter, may submit a nil report.
+_________________________________________________________________
+
+11                                                 ANNEXURE
+
+FMR – 1
+
+Report on Actual or Suspected Frauds in Banks
+(Vide Paragraph 3)
+
+Part A: Fraud Report
+
+---
+
+[MISC] 1.    Name of the bank
+
+---
+
+[FRAUD] 2.     Fraud number1
+
+---
+
+[MISC] 3.     Details of the branch2
+
+(a) Name of the branch
+
+(b)  Branch type
+
+(c)  Place
+
+(d)  District
+
+(e)  State
+
+---
+
+[FRAUD] 4.    Name of the Principal
+party/account3
+
+5.a    Area of operation where the
+fraud has occurred4
+
+5.b   Whether fraud has occurred in  Yes/No
+a borrowal account?
+
+---
+
+[FRAUD] 6.     Nature of fraud5
+
+---
+
+[FRAUD] 7.     Total amount involved 6(Rs. in
+lakh)
+
+8.a    Date of occurrence7
+
+b      Date of detection8
+
+c     Reasons for delay, if any, in
+detecting the fraud
+
+12d     Date on which reported to
+RBI9
+
+e     Reasons for delay, if any, in
+reporting the fraud to RBI
+
+9.a     Brief history
+b    modus operandi
+(be precise, clear in
+description)
+
+---
+
+[KYC|FRAUD] 10.    Fraud committed by
+
+a       Staff                       Yes/No
+
+b     Customers                  Yes/No
+
+c      Outsiders                   Yes/No
+
+11.a  Whether the  controlling  office Yes/No
+(Regional/Zonal)  could  detect
+the  fraud  by  a  scrutiny  of
+control returns submitted by the
+branch
+
+b     Whether  there   is  need   to Yes/No
+improve the information system
+
+12.a  Whether  internal  inspection/  Yes/No *
+audit   (including   concurrent
+audit) was conducted  at the
+branch(es) during the period
+between  the  date  of   first
+occurrence of the fraud and its
+detection.
+
+b           If yes, why the fraud could
+not  have  been   detected
+during such inspection/audit.
+
+c     What action has been taken
+for non-detection of the fraud
+during such inspection/audit
+
+---
+
+[MISC] 13.    Action taken/proposed to be
+taken
+a      Complaint     with     Police/
+Investigative agency
+
+13       i)Whether any complaint has  Yes/No
+been lodged with the Police/
+Investigative agency
+
+ii)   If  yes, name  of  office/
+branch         of Investigative
+agency
+
+1      Date of reference
+
+2      Present position of the case
+
+3      Date    of   completion    of
+investigation
+
+i)  Date  of  submission  of
+4 a    investigation     report    by
+Police/Investigative agency
+
+ii)  If not reported  to Police/
+Investigative agency, reasons
+therefor
+
+b     Recovery   suit   with  Co-op.
+Court/Court
+
+i) Date of filing
+
+ii) Present position
+
+c      Insurance claim
+
+i)  Whether  any  claim  has  Yes/No
+been   lodged    with    the
+insurance company
+
+ii) If not, reasons therefor
+
+d      Details of staff-side action
+
+i)   Whether   any    internal Yes/No
+investigation   has    been/is
+proposed to be conducted
+
+ii) If yes, date of completion
+
+14             iii) Whether any departmental
+enquiry has been/is proposed
+to be conducted
+iv)  If yes, give details as per
+format given below:
+v) If not, reasons therefor
+
+No. Name Desgn. Whether Date of Date of  Date  Date of Punis  Details of
+suspen-        commen- of      issue   h-   prosecution                           issue of
+ded            cement  compl of final ment  / conviction/                         charge
+of        e-tion  orders awar-   acquittal,                          sheet
+domestic of           ded       etc.
+inquiry   inquir
+y
+
+e     Steps  taken/proposed  to  be
+taken to avoid such incidents
+
+---
+
+[MISC] 14.     (a)  Total amount recovered
+
+i)  Amount  recovered  from
+party/parties concerned
+
+ii) From insurance
+
+iii) From other sources
+
+(b)  Extent  of  loss  to  the
+bank
+
+(c)  Provision held
+
+(d)  Amount written off
+
+---
+
+[FRAUD] 15.    Suggestions for consideration
+of RBI
+
+* Banks have to categorically mention the nature of audit the branch is
+subjected to viz. concurrent audit, statutory audit, internal inspection, etc.
+
+15Part B: Additional Information on Frauds in Borrowal Accounts
+(This part is required to be completed in respect of frauds in all borrowal accounts)
+
+---
+
+[FRAUD] 1.    (a)   Business  address  of
+the party in    whose
+account   fraud   has
+taken place
+
+(b)  Names and addresses No     Name of         Address
+of   the    proprietors/    .       proprietor/
+partners/ directors            partner/ director
+
+---
+
+[MISC] 2.   Details of account/s         No  Nature  Date of Sanctione Balance
+.     of   sanction d Limit  outstandin
+account                   g
+
+---
+
+[KYC|FRAUD|GOVERNANCE] 3.   Details of associate concerns
+
+No. Name and address  Name of proprietor/   Address of proprietor/
+of             partner/ director        partner/ director
+associate concern
+
+16Instructions for compiling the Fraud Report (FMR 1):
+
+1 Fraud number: This has been introduced with a view to  facilitate computerisation and cross-
+reference. The number will be an alphanumeric field consisting of the following: four alphabets (to
+indicate name of bank), two digits for the year (02, 03, etc.), two digits for the quarter (01 for January
+– March quarter, etc.) and the final four digits being a distinctive running number for the fraud reported
+during                                        the                                          quarter.4
+.
+2 Name of the branch: In case the fraud relates to more than one branch, indicate the name of only
+one branch where the amount involved has been the highest and/or which is mainly involved in
+following up the fraud. The names of the other branches may be given in the brief history/modus
+operandi against item number 9.
+3 Name of party: A distinctive name may be given to identify the fraud. In the case of frauds in
+borrowal accounts, name of the borrowers may be given. In the case of frauds committed by
+employees, the name(s) of the employee(s) could be used to identify the fraud. Where fraud has
+taken place, say, in clearing account/inter-branch account, and  if  it is not immediately possible to
+identify the involvement of any particular employee in the fraud, the same may be identified merely as
+“Fraud in clearing/inter-branch account”.
+4 Area of operation where the fraud has occurred: Indicate the relevant area out of those given in
+column 1  of statement FMR 2 (Part A) (Cash; Deposits (Savings/Current/Term); Non-resident
+accounts; Advances (Cash credit/Term Loans/Bills/Others); Foreign exchange transactions; Inter-
+branch accounts; Cheques/demand drafts, etc.; Clearing, etc. accounts; Off-balance sheet (Letters of
+credit/Guarantee/Co-acceptance/Others); Others)
+5 Nature of fraud: Select the number of the relevant category from the following which would best
+describe   the   nature   of   fraud:   (1)   Misappropriation  and   criminal  breach   of   trust,
+(2) Fraudulent encashment through forged instruments/manipulation of books of account or through
+fictitious accounts and conversion of property, (3) Unauthorised credit facilities extended for reward or
+for        illegal        gratification,       (4)      Negligence     and      cash       shortages,
+(5) Cheating and forgery, (6) Irregularities in foreign exchange transactions, (7) Others.
+6 Total amount involved: Amounts should, at all places, be indicated in Rs. lakh up to two decimal
+places.
+7 Date of occurrence: In case  it is difficult to indicate the exact date of occurrence of fraud (for
+instance,  if pilferages have taken place over a period of time, or  if the precise date of a borrower’s
+specific action, subsequently deemed to be fraudulent, is not ascertainable), a notional date may be
+indicated which is the earliest likely date on which the person is likely to have committed the fraud
+(say, January 1, 2002, for a fraud which may have been committed anytime during the year 2002).
+The specific details, such as the period over which the fraud has occurred, may be given in the
+history/modus operandi.
+8 Date of detection: If a precise date is not available (as in the case of a fraud detected during the
+course of an inspection/audit or in the case of a fraud being reported such on the directions of the
+Reserve Bank), a notional date on which the same may be said to have been recognised as fraud
+may be indicated.
+9 Date of reporting to RBI: The date of reporting shall uniformly be the date of sending the detailed
+fraud report in form FMR 1 to the RBI and not any date of fax or DO letter that may have preceded it.
+* Banks have to categorically mention the nature of audit the branch is subjected to viz.
+concurrent audit, statutory audit, internal inspection, etc.
+
+172–                                                     lakh)
+off               nt     13                                                                                                Amou                                                     Amou nt Writte n during the curren t quarte rFMR                                                     Rs.in
+
+t                                                         12                                                                  Amoun t Recove red during the current Qtr.             Amoun                                                                                 (Amount                                                                                                                               DomesticOverseas
+of
+at
+for         end Qtr.                11                                   as                                                                                                                       Provision held cases outstandi ng the the                      Amount
+
+t                                  ed                     10                                                                  Total                                                                                      amount   recover                                    Amoun
+as the
+of            9                                                                                                                                                                                   (3+5-7)                                                                                                                                                Amount                                              end                                                                  Cases                                                                                                                  quarter
+the                    6) 8                                                                        No.                                                                                                                                                             outstanding at                                              (2+4-                           Outstanding              4.1)
+the
+7               Frauds                                                                               closed       quarter
+on                               Paragraph                                                                                                                     Amount                                                                                      during                                                                  Cases       current                        N o.  6                 (Vide               Report
+during             5                      Quarterly                                                                  cases       current                                              Amount                                                                                                                  quarter                                        New   the                                                                                                                  reported
+N o.  4
+
+at
+as the
+3                                                                                                                                                                                                                                      _____________________________             of quarter                                                                                                                                                Amount                                                                  Cases   end                                                                                                              Outstanding                                        ended                   the            2                                                                                                                                                             outstanding        previous                    No.                                                                                                                                                                                                                                                    ______________________________________                                                            Frauds                                                        quarter                          bank     A:
+the –
+1                   the
+for             of          Part                                                                                                          Category
+Cash                          Name   Report         off               nt     13                                           AmouAmou nt Writte n during the curren t quarte r
+
+t                               12Amoun t Recove red during the current Qtr.             Amoun
+
+of
+at
+for         end Qtr.                11        asProvision held cases outstandi ng the the                      Amount
+
+t       ed                     10Total      amount   recover                                    Amoun
+as the
+of            9                                                                                      (3+5-7)                                                                 Amount      endCases                      quarter
+the                    6) 8                                No.           outstanding at                                              (2+4-
+
+the
+7closed       quarter                                                                 Amount
+duringCases       current           N o.  6
+
+during             5cases       current                                              Amount                      quarterNew   the        reported
+N o.  4
+
+at
+as the
+3    of quarter                                                                 AmountCases   end
+the            2           outstanding        previous                    No.
+
+1                                                                                                                              Savings Current Term                Cash credit Term Loans Bills OthersCategory
+(i) (ii) (iii)            (i)    (ii)     (iii) (iv)                                                                                                                                        Deposits                                           Non-resident accounts    Advances         off               nt     13                                           AmouAmou nt Writte n during the curren t quarte r
+
+t                               12Amoun t Recove red during the current Qtr.             Amoun
+
+of
+at
+for         end Qtr.                11        asProvision held cases outstandi ng the the                      Amount
+
+t       ed                     10Total      amount   recover                                    Amoun
+as the
+of            9                                                                                      (3+5-7)                                                                 Amount      endCases                      quarter
+the                    6) 8                                No.           outstanding at                                              (2+4-
+
+the
+7closed       quarter                                                                 Amount
+duringCases       current           N o.  6
+
+during             5cases       current                                              Amount                      quarterNew   the        reported
+N o.  4
+
+at
+as the
+3    of quarter                                                                 AmountCases   end
+the            2           outstanding        previous                    No.
+
+etc.,
+1                                                                                                etc.Category                                                                                                                      Foreign exchange transactions       Inter-branch accounts        Cheques/Demand drafts,     Clearing, accounts         off               nt     13Amou nt Writte n during the curren t quarte r  Amou                                        of
+
+t                               12                                                                                                                                                                                                                                respectAmoun t Recove red during the current Qtr.             Amoun                                                                in
+
+of
+at   for         end Qtr.                11                                                                                                              figures        asProvision held cases outstandi ng the the                      Amount                                                             The
+
+t       ed                     10Total      amount   recover                                    Amoun                                                                                                                                                                                      position.
+as the                                                                                                                                                                                                      above.
+of            9                                                                                                                                                                                                                                                                domestic as                                                                                      (3+5-7)                                                                 Amount      end                                                                                                theCases               quarter                                                                to format      the                    6) 8                                No.           outstanding at                                              (2+4-
+relate same
+the
+the               7                                  inclosed       quarter                                                                                                                                                                                                           figures                                                                 Amount
+during                                                                                                                                                           sheetCases       current                                                                                                                                                 above
+N o.  6                                               the                                                                                                                                                                                                                                                                        separate
+
+a
+in      during             5cases       current                                              Amount                      quarter                                                                                                                                                 shownNew   the                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                offices/branches, be        reported
+N o.  4                                                  may
+at                                                                                                                                                                                                                                                                overseas  as the
+3    of quarter                                                                                                                                with                                                                 AmountCases   end
+banks      the            2                                                                                                                                                                                                                                                                            branches/offices           outstanding        previous                    No.
+of                                                                        Indian                                                                                                For overseas
+
+1                                                                                                                                     Letters credit Guarantee s Co- acceptanc e Others          Total                                                                                                                                                                Note:Category
+(i)    (ii)     (iii)        (iv)                                                                                                                                                                                           Off-balance sheet                                                   Others                                                   Amt.
+Total
+
+.                         No
+
+Amt.
+Others
+No.
+
+Amt.                                       foreign           in exchange                                      No.                                                                Irregularities                         transactions
+and                                                   Amt.
+forgery                                      No.                                     Cheating______________
+Amt.                       cashquarter                 and shortages               No.the                                    Negligence
+during                                               Amt.                                                             illegal                                  credit      d facility                                                              extended for                                      No.                                                   Unauthorise                                                      gratificationreported           of                    of
+of and            Amt.fraudsof                                 books                 property                                              Fraudulent                                      No.                                                              encashment/               account conversion                                                                                manipulation
+trust                                                   Amt.                 and  ofclassification           on                                                     criminal                                      No.                                                                Misappropriati             breach                                                                              ______________________________________
+25        bank                                                 lakh               1     above                                                       Rs.Category-wise   the                                                       and                                              Rs.   andB:  of                                                             than–                                                                                 lakh                                                                        Category                     than    lakh                 1 less    25Part    Name                                                                tal                                                             Less   Rs. but lakh   Rs. above  To                                        Amt.
+Total
+No.
+
+Amt.                                                                                                                                                                         Board                                 Staff,   and                                                                             Outsiders                                                           Customers        No.                                                                                                                                                                                                           bank’s
+the
+to
+Amt.
+and                                                                                                                                                                                                                                                                              reported                                                                    Outsiders                                                  Customers           No.
+been
+Code.
+and              Amt.                                                                                  also______________                                                                                                                                         Penal                 have                            Staff Outsiders        No.                                                                                                                                                                            Indianquarter                                                                                  the                             quarter
+and              Amt.                               of                 last                                                                                                                                                                                                                                                                                                                                                                                                                     Designationthe                                                                                                  the
+and                            Staff                                                           Customers        No.                                                                                                                                                                                                                                                                                              provisions                         duringduring                                                                                                                                                                                                          above.                                   C    Name Date:                                                                                                                                       Bank                                        Amt.                                                                                                           various                and
+on     Breported                                                                                                                                                                                                                                            Reserve                                                  Outsiders                                                                                                                                                                                                         decimals.                                                                                                                                                                              Parts                              No.                                                                            based             the                                                                                          two                                                                    to andfrauds                                                          to       5)                                                                                                                                                                            mostly upof                                    Amt.                                                         is                and
+4                                                                                                                         lakh                     reported                                                  Customers           No.                                                   Rs.                                                            in             above                                                                                                                                                                                                                                                                                      (Columns                                                                                                                                                                                                                                                                                                                                                                                                                classification             and Aclassification                                    Amt.                                                                                                                                                                                                                                                                               furnished          lakh Part                            Staff                          1
+No.                                  be        Rs. in                                                                                               ______________________________________                                                                              may     of                                                                                                                                                                                                                                                                                                                                                                                    category-wise
+25                                                                                                                                                                                                           frauds          bank                                  lakh                                                                                                                                                                                                                                                                                                                                                                                                                                  incorporated            1     above                                                                                                                                               above                                             Rs.                                                                            amounts        allPerpetrator-wise     the                                            and                                    Rs.   and                                The  All               been                                                                                                                                       thatC:   of                                              than                   1. 2.–                                                                    lakh                                                than    lakh                                                                   have              1 less    25                                          alPart      Name                                                                                                                          Note:                       Certificate         Certified and           Signature: Place:                                                Less   Rs. but lakh   Rs. above   Tot                                             FMR – 3
+Quarterly Progress Report on Frauds of Rs.1 lakh & above
+(Vide Paragraph 4.2)
+
+Name of the bank: ________________________________
+Statement for quarter ended _______________________
+
+Part A: Summary information
+
+Sr   Particulars                  Number     Amount involved
+(Rs. in lakh)No
+
+---
+
+[MISC] 1.  Cases outstanding
+
+---
+
+[MISC] 2.  Cases where there  is    no
+progress  (furnish  case-wise
+details as per format at Part B
+below)
+
+---
+
+[FRAUD] 3.  Cases where there is progress
+(furnish case-wise  details as
+per format at Part C below)
+
+Part – B: Details of cases where there is no progress
+
+No.   Name of    Fraud No.  Name of party/account    Amount
+branch                                                             (Rs. in lakh) Part – C: Case-wise details of progress
+
+Name of party/account:  ____________________________________
+Name of branch/office:  ____________________________________
+Amount involved
+(Rs in lakh)            ______________________________
+
+Fraud No   :           ______________________________
+
+---
+
+[FRAUD] 1.   Date of first reporting
+
+2.a  Date of filing recovery suit with
+Co-op. Court/Court
+
+b  Present position
+
+---
+
+[MISC] 3.   Recoveries made up to the end
+of the last quarter (Rs. In lakh)
+
+---
+
+[MISC] 4.   Recoveries made during the
+quarter (Rs. In lakh)
+
+a) From party/parties
+concerned
+
+b) From insurance
+
+c) From other sources
+
+---
+
+[MISC] 5.    Total recoveries (3+4) (Rs. in
+lakh)
+
+---
+
+[MISC] 6.   Loss to the bank (Rs in lakh)
+
+---
+
+[MISC] 7.    Provision held (Rs in lakh)
+
+---
+
+[MISC] 8.   Amount written off (Rs in lakh)
+
+---
+
+[FRAUD] 9.    a) Date of reporting case to
+Police/ Investigative agency
+
+b) Date of completion of
+investigation
+
+c) Date of submission of
+investigation report10.  Details of staff-side action
+
+No Name Desg Wheth  Date  Date of  Date Date of Punis Details of
+.          n.     er      of  comme   of   issue   h-   prosecuti
+suspen issue    n-   compl of final ment on/convic
+-ded    of  cement  e-tion orders awar- tion/acqui
+charge   of      of         ded    ttal, etc.
+sheet domesti inquir
+c      y
+inquiry
+
+---
+
+[MISC] 1.
+
+---
+
+[MISC] 2.
+
+---
+
+[MISC] 3.
+
+---
+
+[MISC] 4.
+
+---
+
+[MISC] 11.  Other developments
+
+---
+
+[MISC] 12.  Whether case closed during the Yes/No
+quarter
+
+---
+
+[MISC] 13.  Date of closure:4           s     15
+–                                                                   Robber
+FMR                                                    27                                                                              Arrested                                14                  Modus                                                        Staff                                                                         Operandi
+
+In                                                      claim        13           at                                                                       lakh)                    name                                                     (Rs.                                         been                                                                    Insuran ce settled
+and                                                                         has                                                      26                                           of station                          In                                                                                                                     which                        ed        lakh) 12           No.                                          registered                                                     (Rs.                                                          Amount recover                                                                                                                                      police                                                                                                                                                                           offence                                                                                                      Crime
+In
+11                                                                  lakh)                                                 (Rs.        n                                                          Amount involved                               25                                                                                                      Actio     taken
+
+of                             and
+e                                10                                                                                 paid           24                                           time                                       Date                                                                                       Rs.)   Others                                                                                                          occurrenc
+7)                                  in
+of
+
+9                                       TypeCase12                                                                       (Actual        23                                                                                                                     Staff                                   Paragraph                                                                                                                                                                                          Compensation
+
+8                   (Vide                                                 No.of                                                      Armed Guards
+22                                                                                     Dacoities/Robberies/Theft/Burglaries                                                                                                                                                                   Robbers     on
+a    7                                                                chest             y branch                                                  Convicted                                                                    Whether       currenc                                                      21              Report                                                                                                    Staff
+
+i-   11 6                                       Risk                                                                           classif      cation
+20
+of                                                                                                                                                                                                         _____________________________                                                                                            Others
+10   5                                                                                                                                              Injured                                       Type branch
+19                                   ended                                                                             Staff                                                                                                                                                                                                                                 ______________________________________         4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Dacoity/Robbery/Theft/Burglary                                                                              District                                 18                                                 quarter                                                                                                                                            Others                        bank
+the        3                  the              State
+for                                 rs   17            of                                                                                 Killed          Robbe
+
+2                     ss                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Rural/Semi-urban/Urban/MetropolitanHigh/Normal/Low11 Dacoity/Robbery/Theft/Burglary                        Name Report         Addre                                                                                 10 11 12                                                      16                                                                                                                     Staff
+
+of h  1                                       Name     branc
