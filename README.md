@@ -23,3 +23,8 @@ python clause_splitter.py
 Takes normalized text in output/normalized/ and creates clause-level splits in output/clauses/.
 ```
 
+## Clause Tagging
+```bash
+python tag_clauses.py
+Adds rough [TAGS] (e.g., KYC, FRAUD, PENALTY) to each clause in output/tagged/.
+```
