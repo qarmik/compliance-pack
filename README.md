@@ -33,3 +33,8 @@ Adds rough [TAGS] (e.g., KYC, FRAUD, PENALTY) to each clause in output/tagged/.
 python checklist_extractor.py
 Creates pass/fail checklist items from tagged clauses into output/checklists/.
 ```
+## Audit JSON Export
+```bash
+python checklist_to_json.py
+Converts checklist text files into structured JSON in output/audits/.
+```
