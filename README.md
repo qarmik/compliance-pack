@@ -28,3 +28,8 @@ Takes normalized text in output/normalized/ and creates clause-level splits in o
 python tag_clauses.py
 Adds rough [TAGS] (e.g., KYC, FRAUD, PENALTY) to each clause in output/tagged/.
 ```
+## Checklist Extraction
+```bash
+python checklist_extractor.py
+Creates pass/fail checklist items from tagged clauses into output/checklists/.
+```
