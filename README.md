@@ -38,3 +38,8 @@ Creates pass/fail checklist items from tagged clauses into output/checklists/.
 python checklist_to_json.py
 Converts checklist text files into structured JSON in output/audits/.
 ```
+## CLI Auditor
+```bash
+python cli_auditor.py
+Interactive review of audit JSON items. Marks pass/fail and saves *_reviewed.json.
+```
