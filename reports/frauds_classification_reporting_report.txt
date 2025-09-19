@@ -1,0 +1,60 @@
+Indus V-ai Compliance Pack
+Report Source: frauds_classification_reporting_checklist.txt
+Generated: 2025-09-19T23:06:44.820443
+
+Total items: 51
+Pass: 47 | Fail: 4 | Pending: 0
+
+---
+
+1. [PASS] RBI/2011-12/75
+2. [PASS] 1.   INTRODUCTION                                             2
+3. [PASS] 2.    CLASSIFICATION OF FRAUDS                                2
+4. [PASS] 3.    REPORTING OF FRAUDS TO RESERVE BANK OF INDIA
+5. [PASS] 4.    QUARTERLY RETURNS
+6. [PASS] 5.    REPORTS TO THE BOARD
+7. [PASS] 6.    GUIDELINES FOR REPORTING OF FRAUDS TO POLICE          8
+8. [PASS] 7.   CLOSURE OF FRAUD CASES                                 9
+9. [PASS] 8.    REPORTING CASES OF THEFT, BURGLARY, DACOITY           10
+10. [PASS] 21.   INTRODUCTION
+11. [PASS] 2.   CLASSIFICATION OF FRAUDS
+12. [PASS] 3.    REPORTING OF FRAUDS TO RESERVE BANK OF INDIA
+13. [PASS] •  The modus operandi of the attempted fraud.
+14. [PASS] •  How the attempt did not materialise in the fraud or how the attempt
+15. [PASS] •  The measures taken by the bank to strengthen the existing systems
+16. [PASS] •  New systems and controls put in place in the area where fraud was
+17. [PASS] 5.   REPORTS TO THE BOARD
+18. [PASS] 6.  GUIDELINES FOR REPORTING OF FRAUDS TO POLICE
+19. [PASS] 7.   CLOSURE OF FRAUD CASES
+20. [PASS] 8.  REPORTING CASES OF THEFT, BURGLARY, DACOITY AND  BANK
+21. [PASS] 1.    Name of the bank
+22. [PASS] 2.     Fraud number1
+23. [PASS] 3.     Details of the branch2
+24. [PASS] 4.    Name of the Principal
+25. [PASS] 6.     Nature of fraud5
+26. [PASS] 7.     Total amount involved 6(Rs. in
+27. [PASS] 10.    Fraud committed by
+28. [PASS] 13.    Action taken/proposed to be
+29. [PASS] 14.     (a)  Total amount recovered
+30. [PASS] 15.    Suggestions for consideration
+31. [PASS] 1.    (a)   Business  address  of
+32. [PASS] 2.   Details of account/s         No  Nature  Date of Sanctione Balance
+33. [PASS] 3.   Details of associate concerns
+34. [PASS] 1.  Cases outstanding
+35. [PASS] 2.  Cases where there  is    no
+36. [PASS] 3.  Cases where there is progress
+37. [PASS] 1.   Date of first reporting
+38. [PASS] 3.   Recoveries made up to the end
+39. [PASS] 4.   Recoveries made during the
+40. [PASS] 5.    Total recoveries (3+4) (Rs. in
+41. [PASS] 6.   Loss to the bank (Rs in lakh)
+42. [PASS] 7.    Provision held (Rs in lakh)
+43. [PASS] 8.   Amount written off (Rs in lakh)
+44. [PASS] 9.    a) Date of reporting case to
+45. [FAIL] 1.
+46. [FAIL] 2.
+47. [FAIL] 3.
+48. [FAIL] 4.
+49. [PASS] 11.  Other developments
+50. [PASS] 12.  Whether case closed during the Yes/No
+51. [PASS] 13.  Date of closure:4           s     15
