@@ -1,0 +1,210 @@
+{
+  "source": "frauds_classification_reporting_checklist.txt",
+  "count": 51,
+  "items": [
+    {
+      "item": "RBI/2011-12/75",
+      "status": "pass"
+    },
+    {
+      "item": "1.   INTRODUCTION                                             2",
+      "status": "pass"
+    },
+    {
+      "item": "2.    CLASSIFICATION OF FRAUDS                                2",
+      "status": "pass"
+    },
+    {
+      "item": "3.    REPORTING OF FRAUDS TO RESERVE BANK OF INDIA",
+      "status": "pass"
+    },
+    {
+      "item": "4.    QUARTERLY RETURNS",
+      "status": "pass"
+    },
+    {
+      "item": "5.    REPORTS TO THE BOARD",
+      "status": "pass"
+    },
+    {
+      "item": "6.    GUIDELINES FOR REPORTING OF FRAUDS TO POLICE          8",
+      "status": "pass"
+    },
+    {
+      "item": "7.   CLOSURE OF FRAUD CASES                                 9",
+      "status": "pass"
+    },
+    {
+      "item": "8.    REPORTING CASES OF THEFT, BURGLARY, DACOITY           10",
+      "status": "pass"
+    },
+    {
+      "item": "21.   INTRODUCTION",
+      "status": "pass"
+    },
+    {
+      "item": "2.   CLASSIFICATION OF FRAUDS",
+      "status": "pass"
+    },
+    {
+      "item": "3.    REPORTING OF FRAUDS TO RESERVE BANK OF INDIA",
+      "status": "pass"
+    },
+    {
+      "item": "•  The modus operandi of the attempted fraud.",
+      "status": "pass"
+    },
+    {
+      "item": "•  How the attempt did not materialise in the fraud or how the attempt",
+      "status": "pass"
+    },
+    {
+      "item": "•  The measures taken by the bank to strengthen the existing systems",
+      "status": "pass"
+    },
+    {
+      "item": "•  New systems and controls put in place in the area where fraud was",
+      "status": "pass"
+    },
+    {
+      "item": "5.   REPORTS TO THE BOARD",
+      "status": "pass"
+    },
+    {
+      "item": "6.  GUIDELINES FOR REPORTING OF FRAUDS TO POLICE",
+      "status": "pass"
+    },
+    {
+      "item": "7.   CLOSURE OF FRAUD CASES",
+      "status": "pass"
+    },
+    {
+      "item": "8.  REPORTING CASES OF THEFT, BURGLARY, DACOITY AND  BANK",
+      "status": "pass"
+    },
+    {
+      "item": "1.    Name of the bank",
+      "status": "pass"
+    },
+    {
+      "item": "2.     Fraud number1",
+      "status": "pass"
+    },
+    {
+      "item": "3.     Details of the branch2",
+      "status": "pass"
+    },
+    {
+      "item": "4.    Name of the Principal",
+      "status": "pass"
+    },
+    {
+      "item": "6.     Nature of fraud5",
+      "status": "pass"
+    },
+    {
+      "item": "7.     Total amount involved 6(Rs. in",
+      "status": "pass"
+    },
+    {
+      "item": "10.    Fraud committed by",
+      "status": "pass"
+    },
+    {
+      "item": "13.    Action taken/proposed to be",
+      "status": "pass"
+    },
+    {
+      "item": "14.     (a)  Total amount recovered",
+      "status": "pass"
+    },
+    {
+      "item": "15.    Suggestions for consideration",
+      "status": "pass"
+    },
+    {
+      "item": "1.    (a)   Business  address  of",
+      "status": "pass"
+    },
+    {
+      "item": "2.   Details of account/s         No  Nature  Date of Sanctione Balance",
+      "status": "pass"
+    },
+    {
+      "item": "3.   Details of associate concerns",
+      "status": "pass"
+    },
+    {
+      "item": "1.  Cases outstanding",
+      "status": "pass"
+    },
+    {
+      "item": "2.  Cases where there  is    no",
+      "status": "pass"
+    },
+    {
+      "item": "3.  Cases where there is progress",
+      "status": "pass"
+    },
+    {
+      "item": "1.   Date of first reporting",
+      "status": "pass"
+    },
+    {
+      "item": "3.   Recoveries made up to the end",
+      "status": "pass"
+    },
+    {
+      "item": "4.   Recoveries made during the",
+      "status": "pass"
+    },
+    {
+      "item": "5.    Total recoveries (3+4) (Rs. in",
+      "status": "pass"
+    },
+    {
+      "item": "6.   Loss to the bank (Rs in lakh)",
+      "status": "pass"
+    },
+    {
+      "item": "7.    Provision held (Rs in lakh)",
+      "status": "pass"
+    },
+    {
+      "item": "8.   Amount written off (Rs in lakh)",
+      "status": "pass"
+    },
+    {
+      "item": "9.    a) Date of reporting case to",
+      "status": "pass"
+    },
+    {
+      "item": "1.",
+      "status": "fail"
+    },
+    {
+      "item": "2.",
+      "status": "fail"
+    },
+    {
+      "item": "3.",
+      "status": "fail"
+    },
+    {
+      "item": "4.",
+      "status": "fail"
+    },
+    {
+      "item": "11.  Other developments",
+      "status": "pass"
+    },
+    {
+      "item": "12.  Whether case closed during the Yes/No",
+      "status": "pass"
+    },
+    {
+      "item": "13.  Date of closure:4           s     15",
+      "status": "pass"
+    }
+  ]
+}
