@@ -43,3 +43,11 @@ Converts checklist text files into structured JSON in output/audits/.
 python cli_auditor.py
 Interactive review of audit JSON items. Marks pass/fail and saves *_reviewed.json.
 ```
+
+## Audit Report Export
+
+```bash
+python export_report.py
+# Creates human-readable reports in reports/ with counts and itemized results.
+```
+
